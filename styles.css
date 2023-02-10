@@ -1,0 +1,13 @@
+body {
+    background-attachment: fixed;
+    background-color: lightsteelblue;
+    font-weight: 400;
+}
+
+#great {
+    background-color: greenyellow;
+}
+
+.bread {
+    background-color: red;
+}
